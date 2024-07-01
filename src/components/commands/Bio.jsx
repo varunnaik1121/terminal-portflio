@@ -29,7 +29,7 @@ export default function Bio() {
           src={
             'https://avatars.githubusercontent.com/u/92010950?s=400&u=d2ca3371be026613114e80941ada60493c9f0be3&v=4'
           }
-          className="w-40 h-40 rounded-full border-2 border-solid border-green-500"
+          className="w-40 h-40 rounded-full border-2 border-solid "
         />
         <div>
           <div className="flex gap-1 items-start bg-no-repeat flex-col ">
