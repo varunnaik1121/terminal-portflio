@@ -38,7 +38,7 @@ export default function Terminal() {
     ]);
   };
   return (
-    <div className="text-green-500 border-1 text-xl tracking-wider leading-8 border-black rounded-md  opacity-85 bg-black h-[60vh] w-[60%] flex flex-col">
+    <div className="text-green-500 border-1 text-xl tracking-wider leading-8 border-black rounded-md  opacity-85 bg-black h-[60vh] md:w-[90%] lg:w-[60%] flex flex-col">
       <Navbar />
       <div className="flex-1 overflow-y-auto p-4 scroll no-scrollbar">
         <CurrentDate />
