@@ -11,7 +11,7 @@ function App() {
         </div>
         <div className="flex justify-center items-center md:hidden  w-full h-full overflow-hidden mt-[35%]">
           <h2 className="text-center font-bold text-xl p-2">
-            This Website is Not Responsive to mobile. Switch to Desktop Site🙂💻
+            This Website is Not Responsive. Switch to Desktop 🙂💻
           </h2>
         </div>
       </div>
